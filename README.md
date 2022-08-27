@@ -1,1 +1,3 @@
-# patika-data-structures
+# Veri Yapıları Ve Algoritmalar Projeleri
+
+Proje1
