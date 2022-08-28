@@ -40,5 +40,7 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 ### 2 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 [16,21,11,8,12,22]
 
-![alt text](Untitled.png)
+![alt text](
+
+https://github.com/userrrnameee/react-native/blob/main/Merge%20Sort/Untitled.png)
 
