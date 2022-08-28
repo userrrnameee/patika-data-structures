@@ -31,3 +31,11 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 2: [3,7,5,8,2,9,4,15,6] --> 3cu eleman secilir ve karsilastirma yapilir
 3: [3,5,7,8,2,9,4,15,6] --> 4cu eleman secilir ve karsilastirma yapilir
 4: [3,5,7,8,2,9,4,15,6] --> 5ci eleman secilir ve karsilastirma yapilir
+
+
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
