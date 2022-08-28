@@ -35,7 +35,10 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
+## Proje2
+![alt text](assets/merge.png)
+### 2 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+[16,21,11,8,12,22]
+
+| 16 | 21 | 11 | Text |
 | Paragraph | Text |
