@@ -1,7 +1,7 @@
 # Veri Yapıları Ve Algoritmalar Projeleri
 ## Proje1
-![alt text](insert.png)
-### 1 - Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+![alt text](assets/insert.png)
+### 1 - Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 ### aşamalar :
 1: [22,27,16,2,18,6] İlk sayımızdan başlarız. Sayımızın sağındaki ifadeyi sayımız ile karşılaştırırız.Küçük ise sayımızın ve kalan sayıların sol tarafına doğru geçiş yapar.
