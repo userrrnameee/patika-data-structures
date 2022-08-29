@@ -1,6 +1,8 @@
 # Veri Yapıları Ve Algoritmalar Projeleri
 ## Proje1
+
 ![alt text](assets/insert.png)
+
 ### 1 - Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 ### aşamalar :
@@ -38,8 +40,9 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 ## Proje2
 
 ![alt text](assets/merge.png)
+
 ### 1 - Yukarıdaki dizinin sort türüne göre aşamaları
-[16,21,11,8,12,22]
+[16,21,11,8,12,22] 
 
 ![alt text](assets/proje2.png)
 
@@ -47,12 +50,14 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 O(nlogn)
 
 
-## Proje 3
+## Proje 3 
 
 ![alt text](assets/bsTree.png)
 
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
+
 ![alt text](assets/tree.png)
+
 
 
 
