@@ -52,7 +52,7 @@ O(nlogn)
 ![alt text](assets/bsTree.png)
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
-![alt text](assets/Untitled1.png)
+![alt text](assets/tree.png)
 
 
 
