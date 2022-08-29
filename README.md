@@ -37,9 +37,9 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 
 ## Proje2
 ![alt text](assets/merge.png)
-### 2 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+### 1 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 [16,21,11,8,12,22]
 
-![alt text](Untitled2.png)
+![alt text](assets\Untitled2.png)
 
 
