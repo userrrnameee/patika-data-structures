@@ -41,7 +41,7 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 ### 1 - Yukarıdaki dizinin sort türüne göre aşamaları
 [16,21,11,8,12,22]
 
-![alt text](patika-data-structures/assets/insert.png)
+![alt text](assets/insert.png)
 
 ### 2 -Big-O gösterimi
 O(nlogn)
@@ -49,6 +49,10 @@ O(nlogn)
 
 ## Proje 3
 
-![alt text](bsTree.png)
+![alt text](assets/bsTree.png)
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
+![alt text](assets/Untitled1.png)
+
 
 
