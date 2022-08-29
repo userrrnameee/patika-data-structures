@@ -49,3 +49,6 @@ O(nlogn)
 
 ## Proje 3
 
+![alt text](bsTree.png)
+
+
