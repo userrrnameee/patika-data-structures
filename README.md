@@ -36,10 +36,16 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 
 
 ## Proje2
+
 ![alt text](assets/merge.png)
-### 1 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+### 1 - Yukarıdaki dizinin sort türüne göre aşamaları
 [16,21,11,8,12,22]
 
 ![alt text](patika-data-structures/assets/insert.png)
 
+### 2 -Big-O gösterimi
+O(nlogn)
+
+
+## Proje 3
 
