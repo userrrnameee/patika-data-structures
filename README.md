@@ -41,7 +41,7 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında olur.Bu sebeple Aver
 ### 1 - Yukarıdaki dizinin sort türüne göre aşamaları
 [16,21,11,8,12,22]
 
-![alt text](assets/insert.png)
+![alt text](assets/proje2.png)
 
 ### 2 -Big-O gösterimi
 O(nlogn)
